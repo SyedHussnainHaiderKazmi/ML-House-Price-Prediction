@@ -6,6 +6,7 @@ A machine learning project that predicts house prices using structured housing d
 
 ## 📁 Project Structure
 
+```
 ML-House-Price-Prediction/
 │
 ├── 1_Google_Colab_notebook/
@@ -23,6 +24,7 @@ ML-House-Price-Prediction/
 │   └── All model evaluation & EDA plots (8)
 │
 └── README.md
+```
 
 ---
 
